@@ -1,0 +1,29 @@
+{
+  "name": "myprofile",
+  "version": "1.0.0",
+  "description": "photograph profile application using MEAN stack with Angular 2/4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorhuang15/myprofile.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "Angular2",
+    "Application"
+  ],
+  "author": "Weiping Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorhuang15/myprofile/issues"
+  },
+  "homepage": "https://github.com/victorhuang15/myprofile#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
