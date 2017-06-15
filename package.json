@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/victorhuang15/myprofile#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "mongoose": "^4.10.5"
   }
 }
